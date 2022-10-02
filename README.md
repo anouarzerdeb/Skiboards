@@ -1,2 +1,4 @@
 # SkiBoardsTemplate
-This is my own Website template for Skiboards Shopping store and more information about Skiing. I have created it  with HTM, CSS (bootstrap), JavaScript (Jquery). 
+Dad ist meine eigene Website-Vorlage für den Skiboards-Einkauf und weitere Informationen zum Skifahren. Ich habe es mit HTML, CSS (Bootstrap), JavaScript (Jquery) erstellt. 
+
+
